@@ -1,0 +1,21 @@
+{   
+    "symbols.hidesExplorerArrows": false,
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontLigatures": true,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+}
